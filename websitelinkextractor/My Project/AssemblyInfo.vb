@@ -9,10 +9,10 @@ Imports System.Runtime.InteropServices
 ' Review the values of the assembly attributes
 
 <Assembly: AssemblyTitle("websitelinkextractor")> 
-<Assembly: AssemblyDescription("")> 
-<Assembly: AssemblyCompany("")> 
+<Assembly: AssemblyDescription("Website Link Extractor Tool")> 
+<Assembly: AssemblyCompany("The Technology Hub www.thetechhub.com")> 
 <Assembly: AssemblyProduct("websitelinkextractor")> 
-<Assembly: AssemblyCopyright("Copyright ©  2010")> 
+<Assembly: AssemblyCopyright("Copyright © 2010 The Technology Hub")> 
 <Assembly: AssemblyTrademark("")> 
 
 <Assembly: ComVisible(False)>
